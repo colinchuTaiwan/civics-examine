@@ -72,8 +72,8 @@ TIME_LIMITS = {
 }
 
 SITE_ID = "site_civics_examine"
-
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/colinchuTaiwan/science-examine/main"
+#連接到題庫
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/colinchuTaiwan/civics-examine/main"
 
 # 難度設定（僅 JSON 題庫）
 DIFFICULTY_CONFIG = {
